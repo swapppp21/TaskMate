@@ -1,9 +1,5 @@
 # TaskMate - Your Ultimate Task Management App 👋
 
-TaskMate is a sleek and user-friendly task management application built with **React Native**, **Firebase**, and **NativeWind**. Designed to streamline task organization, it offers intuitive features and a clean, responsive interface for effective task management on the go.
-
----
-
 ## Project Overview 📋
 
 **TaskMate** is a mobile application designed for gig workers and professionals, providing an efficient and interactive platform to manage their daily tasks, set priorities, and track progress. The app emphasizes clean UI design, user engagement, and seamless functionality.
