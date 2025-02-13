@@ -44,6 +44,8 @@
 ### Interactive Task Cards:
 - Expand task cards to reveal detailed descriptions, due dates, and completion status.
 - Quick edit and delete options.
+- Swipe left to delete the task.
+- Swipe right to mark complete.
 
 ### Floating Action Buttons:
 - Quickly navigate to task creation, calendar view, or priority view with interactive floating buttons.
