@@ -50,5 +50,6 @@
 
 ## App Demo 🎥
 
-[Click here to view the Video](https://drive.google.com/file/d/1lL7HoRr59tsN_GT_R1fDMKzOs-XMCB6D/view?usp=sharing)
+[Click here to view the Video](https://drive.google.com/file/d/1FxmzhjCx2wuocpbsLN0SFq8yS6spRUeZ/view?usp=sharing)
+
 
